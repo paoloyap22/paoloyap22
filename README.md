@@ -10,7 +10,7 @@
 - 🎓 **Computer Science Graduate from UC Davis**  
 - 💻 Passionate about **fullstack software development** and building scalable applications  
 - 🛠️ Skilled in **Java, C++, C#, Python, React Native, TypeScript, SQL, Spring Boot, Maven, REST APIs**  
-- 🌱 Currently interning at **Icarus Development** as a **Project Lead & Fullstack Developer** for **Davis Dot**, a social media app built with Firebase & React Native  
+- 🌱 Currently interning at **Icarus Development** as a **Fullstack Developer Intern** for **Davis Dot**, a social media app built with Firebase & React Native  
 - 🌍 Previously a **Web Developer Intern** at Shift One Digital, building websites for clients using **HTML5, CSS3, JavaScript**  
 
 ---
