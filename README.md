@@ -28,14 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paoloyap22&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paoloyap22&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🌟 Featured Projects  
 - 🗺️ **Nav Map**: Indoor mapping tool with Redux-based map editor.  
 - 📱 **Davis Dot**: Social media app for UC Davis clubs & organizations (Firebase + React Native).  
